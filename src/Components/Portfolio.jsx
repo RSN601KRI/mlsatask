@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/table.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Article Newspaper📜",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly article to help explain about the techstack web apps and tooling to get started.",
+    url: "https://hashnode.com/@roshniii06",
   },
   {
-    title: "Web Development for Beginners",
+    title: "About Me | Portfolio👧",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "MLSA • #Include<her>Cohert4.0 • SIH'23 Campus Qualifier • Linkedin Certified Marketing Insider • GSSoC'23 • React Native • Open Source Contributor",
+    url: "https://linktr.ee/roshniikri",
   },
   {
-    title: "My Resume Site",
+    title: "Project Work🚀",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created some projects which builds the basic concepts and started with tech stack tools. Includes my experience and design abilities.",
+    url: "https://github.com/RSN601KRI",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Certifications & Achievements🙌",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here's some certifications and Honors. I've consistently pursued a balance between academics and extracurriculars.",
+    url: "https://www.linkdin.com/in/roshnikumari1",
   },
 ];
 
